@@ -1,0 +1,24 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "description": "Creating a Task manager using MERN",
+  "main": "app.js",
+  "scripts": {
+      "start" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhyey2901/Task_Manager.git"
+  },
+  "author": "Dhyey Vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhyey2901/Task_Manager/issues"
+  },
+  "homepage": "https://github.com/Dhyey2901/Task_Manager#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
